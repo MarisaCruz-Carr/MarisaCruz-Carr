@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola 👋 Soy Marisa
 
-<!--
-**MarisaCruz-Carr/MarisaCruz-Carr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería en Sistemas Computacionales  
+🔍 Interesada en QA / Testing  
+🌍 Buscando oportunidades remotas  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+Soy autodidacta, con pensamiento crítico, atención al detalle y facilidad para trabajar en equipo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades
+- Testing manual
+- Reporte de bugs
+- Inglés avanzado
+
+## 📚 Actualmentte aprendiendo
+- GitHub
+- Testing de software
+
+## 📫 Contacto
+- Email: mexanadian.1@gmail.com
